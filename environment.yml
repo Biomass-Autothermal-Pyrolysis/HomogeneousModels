@@ -1,0 +1,13 @@
+name: environmentDoE
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - cantera
+  - scikits.odes
+  - spyder
+  - matplotlib
+  - pandas
+  - parallel
+  - openpyxl
+prefix: /home/adilgun/miniconda3/envs/environmentDoE
